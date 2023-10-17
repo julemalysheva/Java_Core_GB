@@ -1,4 +1,4 @@
-package linkedList;
+package hw.linkedList;
 
 /**
  * Класс, описывающий работу связанного списка LinkedList

@@ -1,4 +1,4 @@
-package linkedList;
+package hw.linkedList;
 
 /**
  * Класс, описывающий узел Node для работы со связным списком
