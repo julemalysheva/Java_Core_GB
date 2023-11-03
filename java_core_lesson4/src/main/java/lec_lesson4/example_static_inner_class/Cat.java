@@ -1,4 +1,4 @@
-package lesson4.example_static_inner_class;
+package lec_lesson4.example_static_inner_class;
 
 public class Cat {
     private String name, color;

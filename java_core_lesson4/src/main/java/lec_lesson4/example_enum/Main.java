@@ -1,4 +1,4 @@
-package lesson4.example_enum;
+package lec_lesson4.example_enum;
 
 public class Main {
     enum Color {

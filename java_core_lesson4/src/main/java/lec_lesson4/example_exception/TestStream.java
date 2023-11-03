@@ -1,4 +1,4 @@
-package lesson4.example_exception;
+package lec_lesson4.example_exception;
 
 import java.io.Closeable;
 import java.io.FileInputStream;

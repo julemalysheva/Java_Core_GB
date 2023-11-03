@@ -1,4 +1,4 @@
-package lesson4.example_local_inner_class;
+package lec_lesson4.example_local_inner_class;
 
 public class Animal {
 
